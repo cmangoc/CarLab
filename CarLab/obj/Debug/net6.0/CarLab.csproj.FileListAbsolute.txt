@@ -1,0 +1,15 @@
+C:\Users\cmang\source\repos\CarLab\CarLab\bin\Debug\net6.0\CarLab.exe
+C:\Users\cmang\source\repos\CarLab\CarLab\bin\Debug\net6.0\CarLab.deps.json
+C:\Users\cmang\source\repos\CarLab\CarLab\bin\Debug\net6.0\CarLab.runtimeconfig.json
+C:\Users\cmang\source\repos\CarLab\CarLab\bin\Debug\net6.0\CarLab.dll
+C:\Users\cmang\source\repos\CarLab\CarLab\bin\Debug\net6.0\CarLab.pdb
+C:\Users\cmang\source\repos\CarLab\CarLab\obj\Debug\net6.0\CarLab.csproj.AssemblyReference.cache
+C:\Users\cmang\source\repos\CarLab\CarLab\obj\Debug\net6.0\CarLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmang\source\repos\CarLab\CarLab\obj\Debug\net6.0\CarLab.AssemblyInfoInputs.cache
+C:\Users\cmang\source\repos\CarLab\CarLab\obj\Debug\net6.0\CarLab.AssemblyInfo.cs
+C:\Users\cmang\source\repos\CarLab\CarLab\obj\Debug\net6.0\CarLab.csproj.CoreCompileInputs.cache
+C:\Users\cmang\source\repos\CarLab\CarLab\obj\Debug\net6.0\CarLab.dll
+C:\Users\cmang\source\repos\CarLab\CarLab\obj\Debug\net6.0\refint\CarLab.dll
+C:\Users\cmang\source\repos\CarLab\CarLab\obj\Debug\net6.0\CarLab.pdb
+C:\Users\cmang\source\repos\CarLab\CarLab\obj\Debug\net6.0\CarLab.genruntimeconfig.cache
+C:\Users\cmang\source\repos\CarLab\CarLab\obj\Debug\net6.0\ref\CarLab.dll
